@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "आपके गूगल क्रोम ब्राउजर में वर्ल्ड टीवी।"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store, please translate it, don't leave as is.",
+      "message": "गूगल क्रोम ™ के लिए टीवी"
+   }
+}

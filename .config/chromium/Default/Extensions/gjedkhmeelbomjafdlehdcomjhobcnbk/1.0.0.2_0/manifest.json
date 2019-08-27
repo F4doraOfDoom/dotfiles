@@ -1,0 +1,20 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "main.js" ]
+   },
+   "content_scripts": [ {
+      "js": [ "contentscript.js" ],
+      "matches": [ "*://*/*" ]
+   } ],
+   "description": "Enables the user to launch into Saba Meeting events within Chrome.",
+   "icons": {
+      "128": "icon-128.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAogKFbfM27rDHZZAtob0ojIupd5p/blPp1vIZySjF9cJPfUMNYaqEWX5keTxNkbOZxOTwHwr26+S9Hp+hH/QpYnr8HMmwXL6fA+wUby7Cm1o0VyXoSdjUOrnABPzN6cyMypmRKahuCGDUtWOhhLOsAm4aHRtfut3nAEf5lkEJ2B8zfgQvi/Tq1jCNyUfDEVHZ9n45WaR6ZsvfwH3LWC3E9FLXCK62xJUsGsnGc763pnFVAzxQIceZY3xv6jgYm/4tFy3GQFnflwuK+qUHR5ERmvKtE5oGkKvSgXPQnKkRRDRAJtcnrJzSG9LjUy+5SGlsXpDIkQ3v/A4RK75Gmq9O5QIDAQAB",
+   "manifest_version": 2,
+   "name": "Saba Meeting Chrome Connector",
+   "permissions": [ "nativeMessaging" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.0.2"
+}

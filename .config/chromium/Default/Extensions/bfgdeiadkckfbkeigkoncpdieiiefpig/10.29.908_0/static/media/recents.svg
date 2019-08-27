@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Recents Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Bitmoji-Library" transform="translate(-59.000000, -248.000000)" fill-rule="nonzero" fill="#B1BAC4">
+            <g id="Extension" transform="translate(39.000000, 32.000000)">
+                <path d="M34,241 C40.0751322,241 45,236.075132 45,230 C45,223.924868 40.0751322,219 34,219 C27.9248678,219 23,223.924868 23,230 C23,236.075132 27.9248678,241 34,241 Z M34,231 L34,225.5 C34,224.671573 33.3284271,224 32.5,224 C31.6715729,224 31,224.671573 31,225.5 L31,232.5 C31,232.914214 31.1678932,233.289214 31.4393398,233.56066 C31.7107864,233.832107 32.0857864,234 32.5,234 L37.5,234 C38.3284271,234 39,233.328427 39,232.5 C39,231.671573 38.3284271,231 37.5,231 L34,231 Z M34,244 C26.2680135,244 20,237.731986 20,230 C20,222.268014 26.2680135,216 34,216 C41.7319865,216 48,222.268014 48,230 C48,237.731986 41.7319865,244 34,244 Z" id="Recents-Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>

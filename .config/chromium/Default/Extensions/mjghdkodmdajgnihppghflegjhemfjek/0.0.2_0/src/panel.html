@@ -1,0 +1,43 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>My Panel</title>
+  <link href="panel.css" rel="stylesheet">
+</head>
+<body>
+<h2>Dispatch Event:</h2>
+<div class="line">
+  <div class="select-style">
+    <select id="eventName">
+      <option value="" disabled selected>Basic</option>
+      <option value="click">click</option>
+      <option value="mousedown">mousedown</option>
+      <option value="mouseup">mouseup</option>
+      <option value="mouseenter">mouseenter</option>
+      <option value="mouseover">mouseover</option>
+      <option value="mouseleave">mouseleave</option>
+      <option value="focus">focus</option>
+      <option value="blur">blur</option>
+    </select>
+  </div>
+  <button class="button" id="dispatchBtn">Dispatch</button>
+</div>
+<br/>
+<div style="margin-left: 20px">OR</div>
+<div class="line">
+  <div class="group">
+    <input id="customEventName" type="text" required>
+    <span class="highlight"></span>
+    <span class="bar"></span>
+    <label>Custom</label>
+  </div>
+  <button class="button" id="dispatchCustomBtn">Dispatch</button>
+
+</div>
+</body>
+<script src="panel.js"></script>
+</html>

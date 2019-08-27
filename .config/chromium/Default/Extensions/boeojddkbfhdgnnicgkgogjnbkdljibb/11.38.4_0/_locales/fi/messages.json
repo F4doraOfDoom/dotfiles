@@ -1,0 +1,66 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Valitse valoisa tai pimeä puoli, niin Voima herää aina, kun avaat uuden välilehden."
+   },
+   "appDesc2": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Lisätietoja sovelluksesta on osoitteessa $url$",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "google.com/starwars"
+         }
+      }
+   },
+   "appDesc3": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Huom. Varmista suorituskyky poistamalla käytöstä muut valokuvavälilehtiä koskevat Chrome-laajennukset kohdasta Asetukset > Laajennukset."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Herätä voima sisälläsi"
+   },
+   "buttonChooseYourSide": {
+      "description": "A button which will prompt a user to go to the side chooser.",
+      "message": "Valitse puolesi"
+   },
+   "buttonSignIn": {
+      "description": "A button which will prompt a user to sign in.",
+      "message": "Kirjaudu sisään"
+   },
+   "descNotAuth": {
+      "description": "The description to prompt a user to sign in.",
+      "message": "Voit ottaa tämän Chrome-laajennuksen käyttöön kirjautumalla sisään ja valitsemalla Voiman valoisan tai pimeän puolen."
+   },
+   "descNotChosen": {
+      "description": "The description to prompt a user to go to the side chooser.",
+      "message": "Voit ottaa tämän Chrome-laajennuksen käyttöön valitsemalla Voiman valoisan tai pimeän puolen."
+   },
+   "descSignUp": {
+      "description": "A link to encourage a non-Google user to sign up.",
+      "message": "Eikö sinulla ole Gmail-tiliä? \u003Ca href=\"$url$\">Luo tili nyt\u003C/a>.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "https://mail.google.com/mail/signup"
+         }
+      }
+   },
+   "descTurnDown": {
+      "description": "The message shown when the service is turned down.",
+      "message": "Kiitos käynnistä. Jos olet aiemmin valinnut puolen, Google Apps palautetaan perustilaan 1. helmikuuta 2016."
+   },
+   "menuChooseSide": {
+      "description": "A link to the Side Chooser so the user can switch their side.",
+      "message": "Valitse puolesi"
+   },
+   "menuDefaultTab": {
+      "description": "A link to show the default tab instead of the photo background.",
+      "message": "Avaa oletusvälilehti"
+   },
+   "menuShowApps": {
+      "description": "A link to show the Chrome Apps instead of the photo background.",
+      "message": "Näytä sovellukset"
+   }
+}

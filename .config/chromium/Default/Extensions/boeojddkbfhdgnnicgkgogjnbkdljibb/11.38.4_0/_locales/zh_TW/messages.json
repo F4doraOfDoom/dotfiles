@@ -1,0 +1,66 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "請選擇您要加入光明面或黑暗面陣營，以便在每次開啟新分頁時喚醒原力。"
+   },
+   "appDesc2": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "如要進一步瞭解「喚醒內在原力」，請造訪 $url$",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "google.com/starwars"
+         }
+      }
+   },
+   "appDesc3": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "注意：為了確保獲得最佳效能，請依序前往瀏覽器的 [設定] > [擴充功能]，停用任何其他相片分頁的 Chrome 擴充功能。"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "喚醒內在原力"
+   },
+   "buttonChooseYourSide": {
+      "description": "A button which will prompt a user to go to the side chooser.",
+      "message": "選擇您的陣營"
+   },
+   "buttonSignIn": {
+      "description": "A button which will prompt a user to sign in.",
+      "message": "登入"
+   },
+   "descNotAuth": {
+      "description": "The description to prompt a user to sign in.",
+      "message": "如要啟用這個 Chrome 擴充功能，請登入並選擇您要加入原力的光明面或黑暗面陣營。"
+   },
+   "descNotChosen": {
+      "description": "The description to prompt a user to go to the side chooser.",
+      "message": "如要啟用這個 Chrome 擴充功能，請選擇您要加入原力的光明面或黑暗面陣營。"
+   },
+   "descSignUp": {
+      "description": "A link to encourage a non-Google user to sign up.",
+      "message": "沒有 Gmail 帳戶嗎？立即\u003Ca href=\"$url$\">申請帳戶\u003C/a>",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "https://mail.google.com/mail/signup"
+         }
+      }
+   },
+   "descTurnDown": {
+      "description": "The message shown when the service is turned down.",
+      "message": "感謝您的造訪。如果您先前選擇了陣營，則您的 Google 應用程式將從 2016 年 2 月 1 日起，回復正常狀態。"
+   },
+   "menuChooseSide": {
+      "description": "A link to the Side Chooser so the user can switch their side.",
+      "message": "選擇您的陣營"
+   },
+   "menuDefaultTab": {
+      "description": "A link to show the default tab instead of the photo background.",
+      "message": "開啟預設分頁"
+   },
+   "menuShowApps": {
+      "description": "A link to show the Chrome Apps instead of the photo background.",
+      "message": "顯示應用程式"
+   }
+}

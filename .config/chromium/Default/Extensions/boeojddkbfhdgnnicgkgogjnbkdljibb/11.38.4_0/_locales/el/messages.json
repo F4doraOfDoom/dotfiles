@@ -1,0 +1,66 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Επιλέξτε τη φωτεινή πλευρά ή τη σκοτεινή πλευρά για να ξυπνάτε τη Δύναμη κάθε φορά που ανοίγετε νέα καρτέλα."
+   },
+   "appDesc2": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Για να μάθετε περισσότερα σχετικά με το \"Ξυπνήστε τη Δύναμη που κρύβετε μέσα σας\", επισκεφτείτε τη διεύθυνση $url$",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "google.com/starwars"
+         }
+      }
+   },
+   "appDesc3": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Σημείωση: Για καλύτερη απόδοση, απενεργοποιήστε οποιεσδήποτε άλλες επεκτάσεις Chrome φωτογραφιών μεταβαίνοντας στις Ρυθμίσεις > Επεκτάσεις στο πρόγραμμα περιήγησης."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Ξυπνήστε τη Δύναμη που κρύβετε μέσα σας"
+   },
+   "buttonChooseYourSide": {
+      "description": "A button which will prompt a user to go to the side chooser.",
+      "message": "Επιλέξτε πλευρά"
+   },
+   "buttonSignIn": {
+      "description": "A button which will prompt a user to sign in.",
+      "message": "Σύνδεση"
+   },
+   "descNotAuth": {
+      "description": "The description to prompt a user to sign in.",
+      "message": "Για να ενεργοποιήσετε αυτή την επέκταση Chrome, συνδεθείτε και επιλέξτε τη φωτεινή πλευρά ή τη σκοτεινή πλευρά της Δύναμης."
+   },
+   "descNotChosen": {
+      "description": "The description to prompt a user to go to the side chooser.",
+      "message": "Για να ενεργοποιήσετε αυτή την επέκταση Chrome, επιλέξτε τη φωτεινή πλευρά ή τη σκοτεινή πλευρά της Δύναμης."
+   },
+   "descSignUp": {
+      "description": "A link to encourage a non-Google user to sign up.",
+      "message": "Δεν έχετε λογαριασμό Gmail; \u003Ca href=\"$url$\">Εγγραφή\u003C/a>",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "https://mail.google.com/mail/signup"
+         }
+      }
+   },
+   "descTurnDown": {
+      "description": "The message shown when the service is turned down.",
+      "message": "Σας ευχαριστούμε που μας επισκεφτήκατε. Εάν έχετε ήδη επιλέξει πλευρά, οι εφαρμογές σας Google θα επιστρέψουν στην κανονική κατάσταση από την 1η Φεβρουρίου, 2016."
+   },
+   "menuChooseSide": {
+      "description": "A link to the Side Chooser so the user can switch their side.",
+      "message": "Επιλέξτε πλευρά"
+   },
+   "menuDefaultTab": {
+      "description": "A link to show the default tab instead of the photo background.",
+      "message": "Άνοιγμα προεπιλεγμένης καρτέλας"
+   },
+   "menuShowApps": {
+      "description": "A link to show the Chrome Apps instead of the photo background.",
+      "message": "Εμφάνιση εφαρμογών"
+   }
+}

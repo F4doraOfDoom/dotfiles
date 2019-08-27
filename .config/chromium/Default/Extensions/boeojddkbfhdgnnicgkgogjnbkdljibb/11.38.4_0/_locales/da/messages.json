@@ -1,0 +1,66 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Vælg den lyse side eller den mørke side for at vække Kraften, hver gang du åbner en ny fane."
+   },
+   "appDesc2": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Få mere at vide om Væk Kraften i dig på $url$",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "google.com/starwars"
+         }
+      }
+   },
+   "appDesc3": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Bemærk! For at sikre den bedste ydeevne skal du slå alle andre Chrome-udvidelser med billedfaner fra ved at gå til Indstillinger > Udvidelser i din browser."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Væk Kraften i dig\n"
+   },
+   "buttonChooseYourSide": {
+      "description": "A button which will prompt a user to go to the side chooser.",
+      "message": "Vælg side"
+   },
+   "buttonSignIn": {
+      "description": "A button which will prompt a user to sign in.",
+      "message": "Log ind"
+   },
+   "descNotAuth": {
+      "description": "The description to prompt a user to sign in.",
+      "message": "Du aktiverer denne Chrome-udvidelse ved at logge ind og vælge den lyse eller den mørke side af Kraften."
+   },
+   "descNotChosen": {
+      "description": "The description to prompt a user to go to the side chooser.",
+      "message": "Vælg den lyse eller den mørke side af Kraften for at aktivere denne Chrome-udvidelse."
+   },
+   "descSignUp": {
+      "description": "A link to encourage a non-Google user to sign up.",
+      "message": "Har du ikke en Gmail-konto? \u003Ca href=\"$url$\">Opret\u003C/a>",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "https://mail.google.com/mail/signup"
+         }
+      }
+   },
+   "descTurnDown": {
+      "description": "The message shown when the service is turned down.",
+      "message": "Tak for dit besøg. Hvis du tidligere har valgt side, vender dine Google-apps tilbage til deres normale tilstand fra 1. februar 2016."
+   },
+   "menuChooseSide": {
+      "description": "A link to the Side Chooser so the user can switch their side.",
+      "message": "Vælg side"
+   },
+   "menuDefaultTab": {
+      "description": "A link to show the default tab instead of the photo background.",
+      "message": "Åbn standardfane"
+   },
+   "menuShowApps": {
+      "description": "A link to show the Chrome Apps instead of the photo background.",
+      "message": "Vis apps"
+   }
+}

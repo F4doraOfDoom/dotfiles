@@ -1,0 +1,21 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "blank.html"
+   },
+   "content_security_policy": "script-src 'self' 'sha256-/YXfoGZUp9RcBaSrkVDpxXFM26nuHb63Oq3zssVZQeE=' 'sha256-BOJK/QibpgrHVj7ciSPM7agP3PUI7SEOvMjlUMrgnXg=' https://www.google-analytics.com https://apis.google.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_appDesc__",
+   "homepage_url": "https://www.google.com/starwars",
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0JH4JPZ1WUkkI3yS7IRtrWvKomFE8k3zkDgNvmwg6mLdihvXXYLghgp/Ie4+pNrq+iuGdBsAbCxiGRYcCjrY3uTGrQcGXFyKIanEW1g1CmaoJUS/HLwJxk0J53yMHEnh9a03mAlyhXwUlnzvgFXdMEQq3TPM0hjgy0fZf4xTOMhW1OkZ8SLhhGLFXtMq9SMadwca9+7hmbsGk5glbgYOoFYuO5ayEzXmTzcA2Tjq1phRHKujRhGnlQv4sk9fVoCds4831fBYkfKRg7UlURXe2rtWZ3lcOnK2FdDJR0FUdZApEBN/c00cOrs+bmvCrO+oq/kXzlDJfWPSjktHqVJGvwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_appName__",
+   "oauth2": {
+      "client_id": "188012777405-mb134be29au2ej4t3kffjf44v3bhfkrs.apps.googleusercontent.com",
+      "scopes": [ "https://www.googleapis.com/auth/beyond.private" ]
+   },
+   "permissions": [ "\u003Call_urls>", "identity" ],
+   "short_name": "www.google.com",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "11.38.4"
+}

@@ -1,0 +1,15 @@
+{
+   "content_scripts": [ {
+      "js": [ "./src/content-script.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "This extension allows dispatching events on selected elements",
+   "devtools_page": "./src/devtools.html",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlsRwUSLJXJIQtf4A0af3VBuMWYrlg/Yd3tTiELFWGmF0vxuAm0c0kRQH7MHJAu5ZlVQwS/cF2fCbBF0M3tn2kaGAlbEouG4xYBFAPrrX4HdSoeHXokpie70d9OjdRZAgEdR7Ao57HDqNdPi+mJcBfd6HMyxiqVq0hfUWsUOvjQXpkxb3Brx+UhVVWXmU0YpDidrDxDLnjp8arMkP1DqHfN2qmx+d1t9Jz8aophNS0us4Z2Bd5QRaN34fImyo8IxnmSC5Xqg625yyH79Y9c+S+19ckJYSGWVC/swK7M93/qfSuFUqH2r8jwYbpDlVnWZNReYuqXGXIRocd0oNh8+JBQIDAQAB",
+   "manifest_version": 2,
+   "name": "DOM Events Dispatcher",
+   "permissions": [ "activeTab" ],
+   "short_name": "DOM Events Dispatcher",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.2"
+}

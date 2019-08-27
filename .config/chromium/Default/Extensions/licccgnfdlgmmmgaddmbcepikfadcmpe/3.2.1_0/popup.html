@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <link href="css/style.css" rel="stylesheet" type="text/css" />
+        <link href="css/styleUtils.css" rel="stylesheet" type="text/css" />
+    </head>
+    <body>
+        <div id="MainClose"></div>
+
+        <div id="MainDiv">  
+    
+        <div id="MainHeader">  
+            <div id="main-header-div-left" >
+                <div id="LoadingImg">  
+                    <img src="img/loading.gif" alt="" />
+                </div>
+            </div>
+            <div id="main-header-div-mid" >
+                <div id="search-box-bg">  
+                    <div id="search-box-bg-left" ></div>
+                    <div id="search-box-bg-mid" >
+                        <div id="search-box-button">
+                            <img id="search-box-button-img" src="img/Search.png" title="" alt=""/>
+                        </div>
+                        <input type="text" id="main-search-editbox" /> 
+                    </div>
+                    <div id="search-box-bg-right" ></div>            
+                </div>
+            </div>
+            <div id="main-header-div-right" ></div>
+        </div>   
+        <div id="mainContent" class="hidden">  
+            <div id="main-search-results-div">
+                <div id="main-search-results-frame-div" class="category-frame-div left">
+                    <div id="search-title-div">
+                        <div id="search-title-cancel" class="left"></div>
+                        <div id="search-title" class="main-title-img left"></div>
+                    </div>
+                    <div class="category-frame-content-div">
+                        <div id="search-results-content-div"   class="pad"></div>
+                    </div>   
+                </div>   
+            </div>
+            <center>
+            <div id="main-categories-content-div">
+                <div id="Bookmarks-main-div" class="category-frame-div left">
+                    <div id="bookmarks-title"   class="main-title-img"></div>
+                    <div class="category-frame-content-div">
+                        <div id="BookmarksContent"  class="pad"></div>            
+                    </div>
+                </div>
+
+                <div class="category-frame-div left">
+                    <div id="countries-title" class="main-title-img"></div>
+                    <div class="category-frame-content-div">
+                        <div id="LiveTvByCountry"   class="pad"></div>
+                    </div>   
+                </div>   
+                
+                <div class="category-frame-div left">
+                    <div id="categories-title" class="main-title-img"></div>
+                    <div class="category-frame-content-div">
+                        <div id="LiveTvByCategory" class="pad"></div>
+                    </div>
+                </div>   
+            </div>
+            </center>
+        </div>   
+        
+        <div id="Main-Player-Div" class="hidden"> 
+            <div id="FullScreenTooltip" class="tooltip">
+                <img id="FullScreenTooltipPointer" class="tooltip-pointer"    src="img/tooltip.png" />
+                <div id="tooltip-close" class="tooltip-close-div">
+                    <img src="img/close.png" />
+                </div>
+                <div class="tooltip-content" >
+                    <div class="tooltip-content-title">
+                        <strong>Full Screen is available in the</strong><br />
+                        <strong>following modes:</strong><br />
+                    </div>
+                    <div class="tooltip-content-inner">
+                        <div class="tooltip-img-inner tooltip-img-new-window">- New Window</div>
+                        <div class="tooltip-img-inner tooltip-img-new-tab">- New Tab</div>
+                    </div>
+                    <div class="tooltip-dont-show">
+                        <div class="tooltip-dont-show-checkbox">
+                            <input type="checkbox" id="tooltip-dont-show-again" />
+                        </div>
+                        <div class="tooltip-dont-show-label">
+                            Don't Show this again
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <center> 
+                <div id="Player-Div-Content">
+                    <div class="right">
+                        <img id="Player-Cancel"     class="pointer" src="img/Cancel.png" alt="" title="" />
+                    </div>
+                    <div class="left">
+                        <img id="Play-New-Window"   class="pointer" src="img/OpenStationInWindow.png" alt="Play In New Window2" title="Play In New Window" />
+                        <img id="Play-New-Tab"      class="pointer" src="img/OpenStationInTab.png" alt="Play In New Tab2" title="Play In New Tab" />
+                    </div>
+                    <div id="PlayerHeader"></div>
+                    <div id="Player-Div"></div>
+                </div>
+            </center>                        
+        </div>
+
+		<script type="text/javascript" src="js/mootools.js"></script>
+        <script type="text/javascript" src="js/LiveTvByCountry.js"></script> 
+        <script type="text/javascript" src="js/LiveTvByCategory.js"></script> 
+        <script type="text/javascript" src="js/tvchrome.js"></script> 
+        <script type="text/javascript" src="js/bookmarks.js"></script> 
+        <script type="text/javascript" src="js/searchUtils.js"></script> 
+    </div>
+
+    </body>
+</html>
+

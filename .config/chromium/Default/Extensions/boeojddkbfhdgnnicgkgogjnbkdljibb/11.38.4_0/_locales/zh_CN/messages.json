@@ -1,0 +1,66 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "选择光明面或黑暗面，即可在每次打开新的标签页时唤醒原力。"
+   },
+   "appDesc2": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "要详细了解《唤醒内在原力》，请访问 $url$",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "google.com/starwars"
+         }
+      }
+   },
+   "appDesc3": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "请注意：为了确保实现最佳效果，请在浏览器中依次打开“设置”>“扩展程序”，停用所有其他照片标签页 Chrome 扩展程序。"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "唤醒内在原力"
+   },
+   "buttonChooseYourSide": {
+      "description": "A button which will prompt a user to go to the side chooser.",
+      "message": "请选择其中一面"
+   },
+   "buttonSignIn": {
+      "description": "A button which will prompt a user to sign in.",
+      "message": "登录"
+   },
+   "descNotAuth": {
+      "description": "The description to prompt a user to sign in.",
+      "message": "要开始使用此 Chrome 扩展程序，请登录并选择原力的光明面或黑暗面。"
+   },
+   "descNotChosen": {
+      "description": "The description to prompt a user to go to the side chooser.",
+      "message": "要开始使用此 Chrome 扩展程序，请选择原力的光明面或黑暗面。"
+   },
+   "descSignUp": {
+      "description": "A link to encourage a non-Google user to sign up.",
+      "message": "还没有 Gmail 帐户？\u003Ca href=\"$url$\">注册\u003C/a>一个吧",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "https://mail.google.com/mail/signup"
+         }
+      }
+   },
+   "descTurnDown": {
+      "description": "The message shown when the service is turned down.",
+      "message": "感谢您的使用！如果您之前选择过某一阵营，到 2016 年 2 月 1 日，您的 Google 应用就将恢复为正常状态。"
+   },
+   "menuChooseSide": {
+      "description": "A link to the Side Chooser so the user can switch their side.",
+      "message": "请选择其中一面"
+   },
+   "menuDefaultTab": {
+      "description": "A link to show the default tab instead of the photo background.",
+      "message": "打开默认标签页"
+   },
+   "menuShowApps": {
+      "description": "A link to show the Chrome Apps instead of the photo background.",
+      "message": "显示应用"
+   }
+}

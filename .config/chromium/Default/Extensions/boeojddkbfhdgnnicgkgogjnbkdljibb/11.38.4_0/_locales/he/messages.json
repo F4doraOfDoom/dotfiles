@@ -1,0 +1,66 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "אפשר לבחור בצד המואר או בצד האפל כדי לעורר את הכוח בכל פעם שתפתחו כרטיסייה חדשה."
+   },
+   "appDesc2": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "לקבלת מידע נוסף על 'לעורר את הכוח שבפנים', היכנסו לדף $url$",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "google.com/starwars"
+         }
+      }
+   },
+   "appDesc3": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "הערה: כדי להשיג את הביצועים הטובים ביותר, יש להשבית תוספי Chrome אחרים של כרטיסיות תמונות על ידי פתיחת 'הגדרות' > 'תוספים' בדפדפן."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "לעורר את הכוח שבפנים"
+   },
+   "buttonChooseYourSide": {
+      "description": "A button which will prompt a user to go to the side chooser.",
+      "message": "בחירת הצד"
+   },
+   "buttonSignIn": {
+      "description": "A button which will prompt a user to sign in.",
+      "message": "כניסה"
+   },
+   "descNotAuth": {
+      "description": "The description to prompt a user to sign in.",
+      "message": "כדי להפעיל את תוסף ה-Chrome הזה, יש להיכנס ולבחור באפשרות 'הצד המואר' או 'הצד האפל' של הכוח."
+   },
+   "descNotChosen": {
+      "description": "The description to prompt a user to go to the side chooser.",
+      "message": "כדי להפעיל את תוסף ה-Chrome הזה, יש להיכנס ולבחור באפשרות 'הצד המואר' או 'הצד האפל' של הכוח."
+   },
+   "descSignUp": {
+      "description": "A link to encourage a non-Google user to sign up.",
+      "message": "אין לכם חשבון Gmail?‏ \u003Ca href=\"$url$\">הרשמה\u003C/a>",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "https://mail.google.com/mail/signup"
+         }
+      }
+   },
+   "descTurnDown": {
+      "description": "The message shown when the service is turned down.",
+      "message": "תודה על הביקור. אם בחרת באחד הצדדים, אפליקציות Google שלך יחזרו למצבן הרגיל ב-1 בפברואר 2016."
+   },
+   "menuChooseSide": {
+      "description": "A link to the Side Chooser so the user can switch their side.",
+      "message": "בחירת הצד"
+   },
+   "menuDefaultTab": {
+      "description": "A link to show the default tab instead of the photo background.",
+      "message": "פתיחה של כרטיסיית ברירת המחדל"
+   },
+   "menuShowApps": {
+      "description": "A link to show the Chrome Apps instead of the photo background.",
+      "message": "הצגת היישומים"
+   }
+}

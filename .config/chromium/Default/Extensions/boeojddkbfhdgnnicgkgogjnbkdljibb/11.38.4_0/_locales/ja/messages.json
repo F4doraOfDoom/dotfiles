@@ -1,0 +1,66 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "新しいタブを開くたびに、ライトサイドまたはダークサイドのどちらでフォースを覚醒させるかを選択します。"
+   },
+   "appDesc2": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "「内なるフォースの覚醒」について詳しくは、$url$ をご覧ください。",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "google.com/starwars"
+         }
+      }
+   },
+   "appDesc3": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "注: 最適なパフォーマンスを得るには、ブラウザの [設定] > [拡張機能] に移動して、タブを開いたときに背景に写真を表示する他の Chrome 拡張機能を無効にします（設定している場合）。"
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "内なる \nフォースの \n覚醒"
+   },
+   "buttonChooseYourSide": {
+      "description": "A button which will prompt a user to go to the side chooser.",
+      "message": "サイドを選択"
+   },
+   "buttonSignIn": {
+      "description": "A button which will prompt a user to sign in.",
+      "message": "ログイン"
+   },
+   "descNotAuth": {
+      "description": "The description to prompt a user to sign in.",
+      "message": "この Chrome 拡張機能を有効にするには、\u003Cbr>ログインしてライトサイドまたはダークサイドの\u003Cbr>フォースを選択します。"
+   },
+   "descNotChosen": {
+      "description": "The description to prompt a user to go to the side chooser.",
+      "message": "この Chrome 拡張機能を有効にするには、\u003Cbr>ライトサイドまたはダークサイドのフォースを\u003Cbr>選択します。"
+   },
+   "descSignUp": {
+      "description": "A link to encourage a non-Google user to sign up.",
+      "message": "Gmail アカウントをお持ちでない場合は、\u003Ca href=\"$url$\">こちらからアカウントを作成\u003C/a>できます。",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "https://mail.google.com/mail/signup"
+         }
+      }
+   },
+   "descTurnDown": {
+      "description": "The message shown when the service is turned down.",
+      "message": "サイドを選択してある場合、2016 年 2 月 1 日に Google の各アプリの設定は通常に戻ります。"
+   },
+   "menuChooseSide": {
+      "description": "A link to the Side Chooser so the user can switch their side.",
+      "message": "サイドを選択"
+   },
+   "menuDefaultTab": {
+      "description": "A link to show the default tab instead of the photo background.",
+      "message": "既定のタブを開く"
+   },
+   "menuShowApps": {
+      "description": "A link to show the Chrome Apps instead of the photo background.",
+      "message": "アプリを表示"
+   }
+}

@@ -1,0 +1,10 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Google Chrome tarayıcınızda World TV."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store, please translate it, don't leave as is.",
+      "message": "Google Chrome™ için TV"
+   }
+}

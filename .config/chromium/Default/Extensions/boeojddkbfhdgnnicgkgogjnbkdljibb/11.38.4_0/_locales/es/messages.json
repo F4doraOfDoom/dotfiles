@@ -1,0 +1,66 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Elige el lado luminoso o el lado oscuro para despertar la Fuerza cada vez que abras una nueva pestaña."
+   },
+   "appDesc2": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Descubre más sobre la aplicación Despierta tu Fuerza Interior en $url$",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "google.com/starwars"
+         }
+      }
+   },
+   "appDesc3": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Nota: Para obtener un mayor rendimiento, accede a Configuración > Extensiones en tu navegador e inhabilita cualquier otra extensión de Chrome de tipo pestaña de fotografías."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Despierta tu Fuerza Interior"
+   },
+   "buttonChooseYourSide": {
+      "description": "A button which will prompt a user to go to the side chooser.",
+      "message": "Elige un lado"
+   },
+   "buttonSignIn": {
+      "description": "A button which will prompt a user to sign in.",
+      "message": "Iniciar sesión"
+   },
+   "descNotAuth": {
+      "description": "The description to prompt a user to sign in.",
+      "message": "Para activar esta extensión de Chrome, inicia sesión y elige el lado luminoso o el lado oscuro de la Fuerza."
+   },
+   "descNotChosen": {
+      "description": "The description to prompt a user to go to the side chooser.",
+      "message": "Para activar esta extensión de Chrome, elige el lado luminoso o el lado oscuro de la Fuerza."
+   },
+   "descSignUp": {
+      "description": "A link to encourage a non-Google user to sign up.",
+      "message": "¿No tienes una cuenta de Gmail? \u003Ca href=\"$url$\">Regístrate\u003C/a>",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "https://mail.google.com/mail/signup"
+         }
+      }
+   },
+   "descTurnDown": {
+      "description": "The message shown when the service is turned down.",
+      "message": "Gracias por visitar esta página. Si elegiste un lado anteriormente, tus aplicaciones de Google volverán a su estado normal el 1 de febrero de 2016."
+   },
+   "menuChooseSide": {
+      "description": "A link to the Side Chooser so the user can switch their side.",
+      "message": "Elige un lado"
+   },
+   "menuDefaultTab": {
+      "description": "A link to show the default tab instead of the photo background.",
+      "message": "Abrir pestaña predeterminada"
+   },
+   "menuShowApps": {
+      "description": "A link to show the Chrome Apps instead of the photo background.",
+      "message": "Mostrar aplicaciones"
+   }
+}

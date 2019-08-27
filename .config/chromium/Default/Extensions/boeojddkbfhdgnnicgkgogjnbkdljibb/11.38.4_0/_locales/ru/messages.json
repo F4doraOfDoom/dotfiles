@@ -1,0 +1,66 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Выберите, на чьей вы стороне, и пробуждайте Силу каждый раз, открывая новую вкладку в Chrome."
+   },
+   "appDesc2": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Более подробную информацию можно найти здесь: $url$.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "google.com/starwars"
+         }
+      }
+   },
+   "appDesc3": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Примечание. Мы рекомендуем отключить другие расширения, показывающие фотографии в новой вкладке, так как они могут повлиять на скорость работы браузера. Это можно сделать в разделе \"Расширения\" в настройках Chrome."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Разбуди Силу, дремлющую внутри"
+   },
+   "buttonChooseYourSide": {
+      "description": "A button which will prompt a user to go to the side chooser.",
+      "message": "Выбрать сторону"
+   },
+   "buttonSignIn": {
+      "description": "A button which will prompt a user to sign in.",
+      "message": "Войти"
+   },
+   "descNotAuth": {
+      "description": "The description to prompt a user to sign in.",
+      "message": "Чтобы включить расширение, войдите в аккаунт и выберите светлую или темную сторону Силы."
+   },
+   "descNotChosen": {
+      "description": "The description to prompt a user to go to the side chooser.",
+      "message": "Чтобы включить расширение, выберите светлую или темную сторону Силы."
+   },
+   "descSignUp": {
+      "description": "A link to encourage a non-Google user to sign up.",
+      "message": "Нет аккаунта Google? Создайте его \u003Ca href=\"$url$\">прямо сейчас\u003C/a>.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "https://mail.google.com/mail/signup"
+         }
+      }
+   },
+   "descTurnDown": {
+      "description": "The message shown when the service is turned down.",
+      "message": "Спасибо, что зашли к нам. Если вы уже выбрали сторону раньше, прежний вид Google Apps вернется 1 февраля 2016 года."
+   },
+   "menuChooseSide": {
+      "description": "A link to the Side Chooser so the user can switch their side.",
+      "message": "Выберите, на чьей вы стороне"
+   },
+   "menuDefaultTab": {
+      "description": "A link to show the default tab instead of the photo background.",
+      "message": "Вкладка по умолчанию"
+   },
+   "menuShowApps": {
+      "description": "A link to show the Chrome Apps instead of the photo background.",
+      "message": "Приложения Chrome"
+   }
+}

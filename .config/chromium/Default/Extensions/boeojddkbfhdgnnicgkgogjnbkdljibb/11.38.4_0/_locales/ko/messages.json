@@ -1,0 +1,66 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "라이트 사이드 또는 다크 사이드를 선택하여 새 탭을 열 때마다 포스를 깨우세요."
+   },
+   "appDesc2": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "네 안의 포스를 깨워라에 대한 자세한 내용은 $url$ 페이지를 참조하세요.",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "google.com/starwars"
+         }
+      }
+   },
+   "appDesc3": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "참고: 최고의 사용 경험을 위해 브라우저에서 설정 > 확장 프로그램으로 이동하여 다른 모든 사진 탭 Chrome 확장 프로그램을 사용 중지해 주세요."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "네 안의 포스를 깨워라"
+   },
+   "buttonChooseYourSide": {
+      "description": "A button which will prompt a user to go to the side chooser.",
+      "message": "사이드 선택"
+   },
+   "buttonSignIn": {
+      "description": "A button which will prompt a user to sign in.",
+      "message": "로그인"
+   },
+   "descNotAuth": {
+      "description": "The description to prompt a user to sign in.",
+      "message": "이 Chrome 확장 프로그램을 활성화하려면 로그인하여 포스의 라이트 사이드 또는 다크 사이드를 선택하세요."
+   },
+   "descNotChosen": {
+      "description": "The description to prompt a user to go to the side chooser.",
+      "message": "이 Chrome 확장 프로그램을 활성화하려면\u003Cbr>포스의 라이트 사이드 또는 다크 사이드를 선택하세요."
+   },
+   "descSignUp": {
+      "description": "A link to encourage a non-Google user to sign up.",
+      "message": "Gmail 계정이 없나요? \u003Ca href=\"$url$\">가입하기\u003C/a>",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "https://mail.google.com/mail/signup"
+         }
+      }
+   },
+   "descTurnDown": {
+      "description": "The message shown when the service is turned down.",
+      "message": "방문해 주셔서 감사합니다. 이전에 사이드를 정한 경우, 2016년 2월 1일부터 Google 앱이 기존 환경으로 되돌아갑니다."
+   },
+   "menuChooseSide": {
+      "description": "A link to the Side Chooser so the user can switch their side.",
+      "message": "사이드 선택"
+   },
+   "menuDefaultTab": {
+      "description": "A link to show the default tab instead of the photo background.",
+      "message": "기본 탭 열기"
+   },
+   "menuShowApps": {
+      "description": "A link to show the Chrome Apps instead of the photo background.",
+      "message": "앱 표시"
+   }
+}

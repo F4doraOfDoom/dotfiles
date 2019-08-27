@@ -1,0 +1,66 @@
+{
+   "appDesc": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Kies de lichte of de duistere kant om de Force elke keer te ontketenen wanneer je een nieuw tabblad opent."
+   },
+   "appDesc2": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Ga naar $url$ voor meer informatie over Awaken the Force Within",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "google.com/starwars"
+         }
+      }
+   },
+   "appDesc3": {
+      "description": "The description of the application, displayed in the web store.",
+      "message": "Opmerking: Voor optimale prestaties schakel je eventuele andere Chrome-extensies voor fototabbladen uit via Instellingen > Extensies in je browser."
+   },
+   "appName": {
+      "description": "The title of the application, displayed in the web store.",
+      "message": "Awaken the Force Within"
+   },
+   "buttonChooseYourSide": {
+      "description": "A button which will prompt a user to go to the side chooser.",
+      "message": "Je kant kiezen"
+   },
+   "buttonSignIn": {
+      "description": "A button which will prompt a user to sign in.",
+      "message": "Inloggen"
+   },
+   "descNotAuth": {
+      "description": "The description to prompt a user to sign in.",
+      "message": "Als je deze Chrome-extensie wilt activeren, log je in en kies je de lichte of de duistere kant van de Force."
+   },
+   "descNotChosen": {
+      "description": "The description to prompt a user to go to the side chooser.",
+      "message": "Als je deze Chrome-extensie wilt activeren, kies je de lichte of de duistere kant van de Force."
+   },
+   "descSignUp": {
+      "description": "A link to encourage a non-Google user to sign up.",
+      "message": "Heb je geen Gmail-account? \u003Ca href=\"$url$\">Meld je aan\u003C/a>",
+      "placeholders": {
+         "url": {
+            "content": "$1",
+            "example": "https://mail.google.com/mail/signup"
+         }
+      }
+   },
+   "descTurnDown": {
+      "description": "The message shown when the service is turned down.",
+      "message": "Bedankt voor je bezoek. Als je een kant gekozen had, zullen je Google-apps vanaf 1 februari 2016 weer hun normale uiterlijk terugkrijgen."
+   },
+   "menuChooseSide": {
+      "description": "A link to the Side Chooser so the user can switch their side.",
+      "message": "Je kant kiezen"
+   },
+   "menuDefaultTab": {
+      "description": "A link to show the default tab instead of the photo background.",
+      "message": "Standaardtabblad openen"
+   },
+   "menuShowApps": {
+      "description": "A link to show the Chrome Apps instead of the photo background.",
+      "message": "Apps weergeven"
+   }
+}

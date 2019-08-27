@@ -1,0 +1,22 @@
+2019/08/27-22:46:17.294 1bbd Reusing MANIFEST /home/f4doraofdoom/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2019/08/27-22:46:17.294 1bbd Recovering log #86
+2019/08/27-22:46:17.317 1bbd Level-0 table #89: started
+2019/08/27-22:46:17.388 1bbd Level-0 table #89: 4399992 bytes OK
+2019/08/27-22:46:17.392 1bbd Delete type=0 #86
+2019/08/27-22:47:18.253 1e07 Level-0 table #92: started
+2019/08/27-22:47:18.305 1e07 Level-0 table #92: 4399845 bytes OK
+2019/08/27-22:47:18.308 1e07 Delete type=0 #90
+2019/08/27-22:51:44.079 1e07 Level-0 table #94: started
+2019/08/27-22:51:44.131 1e07 Level-0 table #94: 4399980 bytes OK
+2019/08/27-22:51:44.135 1e07 Delete type=0 #91
+2019/08/27-22:51:44.136 1e07 Compacting 4@0 + 2@1 files
+2019/08/27-22:51:44.237 1e07 Generated table #95@0: 1 keys, 4399726 bytes
+2019/08/27-22:51:44.242 1e07 Generated table #96@0: 4 keys, 405 bytes
+2019/08/27-22:51:44.242 1e07 Compacted 4@0 + 2@1 files => 4400131 bytes
+2019/08/27-22:51:44.245 1e07 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/08/27-22:51:44.246 1e07 Delete type=2 #94
+2019/08/27-22:51:44.246 1e07 Delete type=2 #92
+2019/08/27-22:51:44.246 1e07 Delete type=2 #87
+2019/08/27-22:51:44.247 1e07 Delete type=2 #85
+2019/08/27-22:51:44.247 1e07 Delete type=2 #84
+2019/08/27-22:51:44.247 1e07 Delete type=2 #89
