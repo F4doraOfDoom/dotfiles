@@ -1,6 +1,3 @@
-2019/08/27-23:26:35.389 69e Reusing MANIFEST /home/f4doraofdoom/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2019/08/27-23:26:35.389 69e Recovering log #18
-2019/08/27-23:26:35.391 69e Reusing old log /home/f4doraofdoom/.config/chromium/Default/Sync Data/LevelDB/000018.log 
-2019/08/27-23:42:05.826 9a1 Level-0 table #23: started
-2019/08/27-23:42:05.839 9a1 Level-0 table #23: 113785 bytes OK
-2019/08/27-23:42:05.844 9a1 Delete type=0 #18
+2019/08/28-00:30:35.629 c5b Reusing MANIFEST /home/f4doraofdoom/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/08/28-00:30:35.629 c5b Recovering log #22
+2019/08/28-00:30:35.630 c5b Reusing old log /home/f4doraofdoom/.config/chromium/Default/Sync Data/LevelDB/000022.log 
