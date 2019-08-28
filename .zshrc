@@ -117,5 +117,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-#source /home/f4doraofdoom/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+
 source /home/f4doraofdoom/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source ~/.zplug/init.zsh
+source /home/f4doraofdoom/.oh-my-zsh/plugins/enhancd/init.sh
