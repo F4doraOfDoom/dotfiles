@@ -8,6 +8,8 @@
 !.config/i3/*
 !.config/polybar/*
 !.config/termite/*
+!.config/ranger/*
+!.config/neofetch/*
 !.zsh
 !.oh-my-zsh
 
