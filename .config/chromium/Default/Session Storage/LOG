@@ -1,5 +1,3 @@
-2019/08/28-00:30:35.787 ccb Reusing MANIFEST Session Storage/MANIFEST-000001
-2019/08/28-00:30:35.788 ccb Recovering log #23
-2019/08/28-00:30:35.789 ccb Level-0 table #26: started
-2019/08/28-00:30:35.794 ccb Level-0 table #26: 19398 bytes OK
-2019/08/28-00:30:35.804 ccb Delete type=0 #23
+2019/08/28-11:53:05.406 1228 Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/08/28-11:53:05.406 1228 Recovering log #35
+2019/08/28-11:53:05.407 1228 Reusing old log Session Storage/000035.log 

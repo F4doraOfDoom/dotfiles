@@ -1,0 +1,9 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.jediEnabled": false,
+    "window.zoomLevel": 2,
+    "workbench.colorTheme": "Horizon",
+    "editor.fontFamily": "'Fira Code', 'Fira Code Light'",
+    "editor.fontLigatures": true
+}

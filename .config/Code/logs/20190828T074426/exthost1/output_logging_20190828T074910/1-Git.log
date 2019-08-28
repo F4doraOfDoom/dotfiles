@@ -1,0 +1,12 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/f4doraofdoom
+> git status -z -u
+> git config --global user.email
+> git config --global user.name
+> git check-ignore -z --stdin
+> git show :Downloads/hackon.py
+> git check-ignore -z --stdin
+> git ls-files --stage -- Downloads/

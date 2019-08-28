@@ -1,0 +1,39 @@
+Looking for git in: git
+Using git 2.17.1 from git
+> git rev-parse --show-toplevel
+> git config --get commit.template
+Open repository: /home/f4doraofdoom
+> git status -z -u
+> git check-ignore -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show :Downloads/hackcon.py
+> git config --global user.email
+> git config --global user.name
+> git ls-files --stage -- Downloads/
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git show -s --format=%an <%ae> [%ai] 25810afa952d03d2639e503c16695c2247c33291
+> git show -s --format=%H
+%ae
+%P
+%B 25810afa952d03d2639e503c16695c2247c33291
+> git show -s --format=%an <%ae> [%ai] 19e31078b17e455826bda4895ece91f46707f229
+> git show -s --format=%H
+%ae
+%P
+%B 19e31078b17e455826bda4895ece91f46707f229
+> git show -s --format=%an <%ae> [%ai] 480ad8e85454a4214643ab056cdfe1c3aed8198c
+> git show -s --format=%H
+%ae
+%P
+%B 480ad8e85454a4214643ab056cdfe1c3aed8198c

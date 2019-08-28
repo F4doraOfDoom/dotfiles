@@ -1,3 +1,6 @@
-2019/08/28-00:30:36.007 db5 Reusing MANIFEST leveldb/MANIFEST-000001
-2019/08/28-00:30:36.010 db5 Recovering log #37
-2019/08/28-00:30:36.010 db5 Reusing old log leveldb/000037.log 
+2019/08/28-11:53:05.184 1228 Reusing MANIFEST leveldb/MANIFEST-000001
+2019/08/28-11:53:05.188 1228 Recovering log #55
+2019/08/28-11:53:05.189 1228 Reusing old log leveldb/000055.log 
+2019/08/28-11:53:17.838 1381 Level-0 table #59: started
+2019/08/28-11:53:17.847 1381 Level-0 table #59: 14704 bytes OK
+2019/08/28-11:53:17.850 1381 Delete type=0 #55

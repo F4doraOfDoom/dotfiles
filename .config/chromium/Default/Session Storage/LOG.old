@@ -1,3 +1,6 @@
-2019/08/28-00:21:30.895 3cb9 Reusing MANIFEST Session Storage/MANIFEST-000001
-2019/08/28-00:21:30.895 3cb9 Recovering log #23
-2019/08/28-00:21:30.896 3cb9 Reusing old log Session Storage/000023.log 
+2019/08/28-09:11:04.507 25c3 Reusing MANIFEST Session Storage/MANIFEST-000001
+2019/08/28-09:11:04.507 25c3 Recovering log #32
+2019/08/28-09:11:04.507 25c3 Reusing old log Session Storage/000032.log 
+2019/08/28-10:54:53.950 5ae6 Level-0 table #36: started
+2019/08/28-10:54:53.959 5ae6 Level-0 table #36: 24632 bytes OK
+2019/08/28-10:54:53.963 5ae6 Delete type=0 #32

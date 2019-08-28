@@ -1,0 +1,7 @@
+Acquiring model 'intellisense-members' for python
+Querying IntelliCode service for available models.
+Couldn't reach service Error Message: getaddrinfo ENOTFOUND prod.intellicode.vsengsaas.visualstudio.com prod.intellicode.vsengsaas.visualstudio.com:443, (Error)
+Could not reach the IntelliCode service. Checking the local model cache.
+Recent model was found in cache.
+vs-intellicode-python was passed a model: {"modelPath":"/home/f4doraofdoom/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.1.9/cache/88630A1B4C077752096ECAA576B92C7D3FA1_BC98A65409D042A99DDAF47DC30E1530","modelId":"88630A1B4C077752096ECAA576B92C7D3FA1","outputId":"BC98A65409D042A99DDAF47DC30E1530"}.
+Loaded language server extension.
