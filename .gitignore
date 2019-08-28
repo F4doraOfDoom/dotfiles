@@ -5,9 +5,8 @@
 !.gitignore
 !.scripts
 !.wallpape*
-!.config
+!.config/i3/*
+!.config/polybar/*
 !.zsh
 !.oh-my-zsh
 
-#ignore important stuff
-.config/chromium/*
