@@ -1,15 +1,3 @@
-2019/08/28-09:11:04.439 25c4 Reusing MANIFEST /home/f4doraofdoom/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2019/08/28-09:11:04.439 25c4 Recovering log #27
-2019/08/28-09:11:04.440 25c4 Reusing old log /home/f4doraofdoom/.config/chromium/Default/Sync Data/LevelDB/000027.log 
-2019/08/28-09:52:43.912 27a5 Level-0 table #31: started
-2019/08/28-09:52:43.929 27a5 Level-0 table #31: 111337 bytes OK
-2019/08/28-09:52:43.933 27a5 Delete type=0 #27
-2019/08/28-09:52:43.934 27a5 Compacting 4@0 + 1@1 files
-2019/08/28-09:52:43.944 27a5 Generated table #32@0: 782 keys, 141756 bytes
-2019/08/28-09:52:43.944 27a5 Compacted 4@0 + 1@1 files => 141756 bytes
-2019/08/28-09:52:43.947 27a5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2019/08/28-09:52:43.947 27a5 Delete type=2 #20
-2019/08/28-09:52:43.947 27a5 Delete type=2 #31
-2019/08/28-09:52:43.947 27a5 Delete type=2 #26
-2019/08/28-09:52:43.947 27a5 Delete type=2 #28
-2019/08/28-09:52:43.947 27a5 Delete type=2 #23
+2019/08/28-12:13:19.338 2103 Reusing MANIFEST /home/f4doraofdoom/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/08/28-12:13:19.338 2103 Recovering log #30
+2019/08/28-12:13:19.339 2103 Reusing old log /home/f4doraofdoom/.config/chromium/Default/Sync Data/LevelDB/000030.log 

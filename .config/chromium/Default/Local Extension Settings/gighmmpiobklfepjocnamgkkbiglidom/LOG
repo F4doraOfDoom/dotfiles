@@ -1,6 +1,65 @@
-2019/08/28-11:53:05.292 137f Reusing MANIFEST /home/f4doraofdoom/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
-2019/08/28-11:53:05.292 137f Recovering log #183
-2019/08/28-11:53:05.293 137f Reusing old log /home/f4doraofdoom/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/000183.log 
-2019/08/28-11:54:06.052 1473 Level-0 table #187: started
-2019/08/28-11:54:06.110 1473 Level-0 table #187: 4410571 bytes OK
-2019/08/28-11:54:06.113 1473 Delete type=0 #183
+2019/08/28-15:18:06.696 2864 Reusing MANIFEST /home/f4doraofdoom/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2019/08/28-15:18:06.696 2864 Recovering log #198
+2019/08/28-15:18:06.755 2864 Level-0 table #201: started
+2019/08/28-15:18:06.850 2864 Level-0 table #201: 4410510 bytes OK
+2019/08/28-15:18:06.856 2864 Delete type=0 #198
+2019/08/28-15:19:07.506 28a2 Level-0 table #204: started
+2019/08/28-15:19:07.551 28a2 Level-0 table #204: 4410348 bytes OK
+2019/08/28-15:19:07.554 28a2 Delete type=0 #202
+2019/08/28-15:19:07.556 28a2 Compacting 4@0 + 2@1 files
+2019/08/28-15:19:07.627 28a2 Generated table #205@0: 1 keys, 4410257 bytes
+2019/08/28-15:19:07.634 28a2 Generated table #206@0: 4 keys, 409 bytes
+2019/08/28-15:19:07.634 28a2 Compacted 4@0 + 2@1 files => 4410666 bytes
+2019/08/28-15:19:07.641 28a2 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/08/28-15:19:07.641 28a2 Delete type=2 #201
+2019/08/28-15:19:07.641 28a2 Delete type=2 #204
+2019/08/28-15:19:07.642 28a2 Delete type=2 #194
+2019/08/28-15:19:07.642 28a2 Delete type=2 #199
+2019/08/28-15:19:07.642 28a2 Delete type=2 #193
+2019/08/28-15:19:07.643 28a2 Delete type=2 #196
+2019/08/28-15:19:08.661 28a2 Level-0 table #208: started
+2019/08/28-15:19:08.714 28a2 Level-0 table #208: 4410518 bytes OK
+2019/08/28-15:19:08.716 28a2 Delete type=0 #203
+2019/08/28-15:19:13.455 28a2 Level-0 table #210: started
+2019/08/28-15:19:13.508 28a2 Level-0 table #210: 4410574 bytes OK
+2019/08/28-15:19:13.514 28a2 Delete type=0 #207
+2019/08/28-16:19:07.671 28a2 Level-0 table #212: started
+2019/08/28-16:19:07.735 28a2 Level-0 table #212: 4410656 bytes OK
+2019/08/28-16:19:07.738 28a2 Delete type=0 #209
+2019/08/28-16:30:41.651 28a2 Level-0 table #214: started
+2019/08/28-16:30:41.699 28a2 Level-0 table #214: 4410576 bytes OK
+2019/08/28-16:30:41.705 28a2 Delete type=0 #211
+2019/08/28-16:30:41.706 28a2 Compacting 4@0 + 2@1 files
+2019/08/28-16:30:41.793 28a2 Generated table #215@0: 1 keys, 4410316 bytes
+2019/08/28-16:30:41.795 28a2 Generated table #216@0: 4 keys, 415 bytes
+2019/08/28-16:30:41.795 28a2 Compacted 4@0 + 2@1 files => 4410731 bytes
+2019/08/28-16:30:41.798 28a2 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/08/28-16:30:41.799 28a2 Delete type=2 #208
+2019/08/28-16:30:41.801 28a2 Delete type=2 #206
+2019/08/28-16:30:41.801 28a2 Delete type=2 #212
+2019/08/28-16:30:41.803 28a2 Delete type=2 #214
+2019/08/28-16:30:41.805 28a2 Delete type=2 #210
+2019/08/28-16:30:41.810 28a2 Delete type=2 #205
+2019/08/28-17:19:07.613 28a2 Level-0 table #218: started
+2019/08/28-17:19:07.661 28a2 Level-0 table #218: 4410419 bytes OK
+2019/08/28-17:19:07.664 28a2 Delete type=0 #213
+2019/08/28-17:26:40.932 28a2 Level-0 table #220: started
+2019/08/28-17:26:40.982 28a2 Level-0 table #220: 4410573 bytes OK
+2019/08/28-17:26:40.985 28a2 Delete type=0 #217
+2019/08/28-18:19:07.530 28a2 Level-0 table #222: started
+2019/08/28-18:19:07.576 28a2 Level-0 table #222: 4410578 bytes OK
+2019/08/28-18:19:07.579 28a2 Delete type=0 #219
+2019/08/28-18:33:26.345 28a2 Level-0 table #224: started
+2019/08/28-18:33:26.391 28a2 Level-0 table #224: 4410573 bytes OK
+2019/08/28-18:33:26.395 28a2 Delete type=0 #221
+2019/08/28-18:33:26.396 28a2 Compacting 4@0 + 2@1 files
+2019/08/28-18:33:26.453 28a2 Generated table #225@0: 1 keys, 4410314 bytes
+2019/08/28-18:33:26.456 28a2 Generated table #226@0: 4 keys, 415 bytes
+2019/08/28-18:33:26.456 28a2 Compacted 4@0 + 2@1 files => 4410729 bytes
+2019/08/28-18:33:26.460 28a2 compacted to: files[ 0 2 1 0 0 0 0 ]
+2019/08/28-18:33:26.460 28a2 Delete type=2 #215
+2019/08/28-18:33:26.462 28a2 Delete type=2 #218
+2019/08/28-18:33:26.464 28a2 Delete type=2 #224
+2019/08/28-18:33:26.465 28a2 Delete type=2 #222
+2019/08/28-18:33:26.467 28a2 Delete type=2 #220
+2019/08/28-18:33:26.469 28a2 Delete type=2 #216

@@ -1,3 +1,6 @@
-2019/08/28-09:07:40.217 21ee Reusing MANIFEST /home/f4doraofdoom/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2019/08/28-09:07:40.217 21ee Recovering log #3
-2019/08/28-09:07:40.241 21ee Reusing old log /home/f4doraofdoom/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000003.log 
+2019/08/28-12:13:20.799 2102 Reusing MANIFEST /home/f4doraofdoom/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/08/28-12:13:20.799 2102 Recovering log #3
+2019/08/28-12:13:20.847 2102 Reusing old log /home/f4doraofdoom/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000003.log 
+2019/08/28-12:16:22.568 22e1 Level-0 table #5: started
+2019/08/28-12:16:22.624 22e1 Level-0 table #5: 1374779 bytes OK
+2019/08/28-12:16:22.628 22e1 Delete type=0 #3
