@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/zsh
 
 # init background wallpaper
 feh --bg-scale ~/.wallpaper/`ls ~/.wallpaper | shuf -n1`
@@ -14,3 +14,6 @@ notify-send "Welcome home, Captain!"
 
 #enable zplug
 source ~/.zplug/init.zsh
+
+#enable zsh matching
+setopt extendedglob
