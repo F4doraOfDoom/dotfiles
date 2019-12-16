@@ -3,7 +3,8 @@ allow_bold = true
 #audible_bell = false
 clickable_url = true
 #dynamic_title = true
-font = Fira Code Medium 14
+font = Fira Code,Fira Code Medium 14
+; font = DejaVu Sans Mono 14
 ; font = 10
 #fullscreen = true
 #geometry = 640x480
@@ -114,8 +115,9 @@ color15 = #c5c8c6
 
 
 [hints]
- font = Source Code Pro for Powerline 24
-;font = 24
+#;font = Source Code Pro for Powerline 24
+#;font = Noto Sans Mono CJK KR 18
+#;font = 24
 #foreground = #dcdccc
 #background = #3f3f3f
 #active_foreground = #e68080

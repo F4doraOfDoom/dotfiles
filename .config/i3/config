@@ -190,7 +190,7 @@ exec_always --no-startup-id ~/.scripts/startup.sh &
 
 # Sreen brightness controls
 bindsym XF86MonBrightnessUp exec echo $((`cat /sys/class/backlight/intel_backlight/brightness` + 10)) | sudo tee /sys/class/backlight/intel_backlight/brightness
-bindsym XF86MonBrightnessDown exec echo $((`cat /sys/class/backlight/intel_backlight/brightness` - 10)) | sudo tee /sys/class/backlight/intel_backlight/brightnes
+bindsym XF86MonBrightnessDown exec echo $((`cat /sys/class/backlight/intel_backlight/brightness` - 10)) | sudo tee /sys/class/backlight/intel_backlight/brightness
 bindsym XF86AudioRaiseVolume exec amixer -q set Master 2dB+ unmute
 bindsym XF86AudioLowerVolume exec amixer -q set Master 2dB- unmute
 bindsym XF86AudioMute exec amixer -q set Master toggle

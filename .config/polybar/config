@@ -34,7 +34,7 @@ font-3 = Siji:pixelsize=5;1
 font-4 = FontAwesome:size=5;0
 
 modules-left = i3 
-modules-center date
+;modules-center date
 modules-right =   battery date
 
 [module/backlight]
@@ -283,7 +283,7 @@ animation-packetloss-framerate = 500
 type = internal/volume
 ;speaker-mixer = Speaker
 ;headphone-mixer = Headphone
-:headphone-id = 9
+;headphone-id = 9
 
 format-volume = <ramp-volume> <label-volume>
 label-muted =   muted
